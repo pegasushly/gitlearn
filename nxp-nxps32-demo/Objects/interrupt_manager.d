@@ -1,0 +1,14 @@
+.\objects\interrupt_manager.o: S32Drivers\Src\interrupt\interrupt_manager.c
+.\objects\interrupt_manager.o: .\S32Drivers\Inc\interrupt_manager.h
+.\objects\interrupt_manager.o: .\CMSIS\device_registers.h
+.\objects\interrupt_manager.o: .\CMSIS\s32_core_cm4.h
+.\objects\interrupt_manager.o: .\CMSIS\S32K144.h
+.\objects\interrupt_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\interrupt_manager.o: .\CMSIS\core_cm4.h
+.\objects\interrupt_manager.o: .\CMSIS\core_cmInstr.h
+.\objects\interrupt_manager.o: .\CMSIS\core_cmFunc.h
+.\objects\interrupt_manager.o: .\CMSIS\core_cm4_simd.h
+.\objects\interrupt_manager.o: .\CMSIS\system_S32K144.h
+.\objects\interrupt_manager.o: .\CMSIS\S32K144_features.h
+.\objects\interrupt_manager.o: .\CMSIS\devassert.h
+.\objects\interrupt_manager.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h

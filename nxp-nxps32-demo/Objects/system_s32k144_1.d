@@ -1,0 +1,14 @@
+.\objects\system_s32k144_1.o: RTE\Device\S32K144HFxxxLLx\system_S32K144.c
+.\objects\system_s32k144_1.o: .\Drivers\Inc\device_registers.h
+.\objects\system_s32k144_1.o: .\Drivers\Inc\s32_core_cm4.h
+.\objects\system_s32k144_1.o: .\CMSIS\S32K144.h
+.\objects\system_s32k144_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\system_s32k144_1.o: .\Drivers\Inc\core_cm4.h
+.\objects\system_s32k144_1.o: .\Drivers\Inc\core_cmInstr.h
+.\objects\system_s32k144_1.o: .\Drivers\Inc\core_cmFunc.h
+.\objects\system_s32k144_1.o: .\Drivers\Inc\core_cm4_simd.h
+.\objects\system_s32k144_1.o: .\CMSIS\system_S32K144.h
+.\objects\system_s32k144_1.o: .\CMSIS\S32K144_features.h
+.\objects\system_s32k144_1.o: .\Drivers\Inc\devassert.h
+.\objects\system_s32k144_1.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\system_s32k144_1.o: RTE\Device\S32K144HFxxxLLx\system_S32K144.h

@@ -1,0 +1,16 @@
+--cpu Cortex-M4.fp
+".\objects\main.o"
+".\objects\clockman1.o"
+".\objects\cpu.o"
+".\objects\pin_mux.o"
+".\objects\clock_s32k1xx.o"
+".\objects\interrupt_manager.o"
+".\objects\pins_driver.o"
+".\objects\pins_port_hw_access.o"
+".\objects\startup_s32k144.o"
+".\objects\system_s32k144.o"
+".\objects\startup.o"
+--strict --scatter ".\CMSIS\S32K144_64_flash.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\rttreads32f144project.map" -o .\Objects\rttreads32f144project.axf

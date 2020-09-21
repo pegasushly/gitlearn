@@ -1,0 +1,185 @@
+Dependencies for Project 'rttreads32f144project', Target 'rttread-s32f144': (DO NOT MODIFY !)
+F (.\Application\Src\main.c)(0x5E919335)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\Application\Inc -I.\Drivers\Inc -I.\S32Drivers\Inc -I.\CMSIS -I.\S32Drivers-I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DCPU_S32K144HFT0VLLT -DCPU_S32K144HFT0VLLT -DCORE_M4-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (.\Drivers\Inc\Cpu.h)(0x5E8EFD5B)
+I (.\CMSIS\device_registers.h)(0x5E919D29)
+I (.\CMSIS\s32_core_cm4.h)(0x5C7027FA)
+I (.\CMSIS\S32K144.h)(0x5A3BB655)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\CMSIS\core_cm4.h)(0x560A64F2)
+I (.\CMSIS\core_cmInstr.h)(0x560A64F2)
+I (.\CMSIS\core_cmFunc.h)(0x560A64F2)
+I (.\CMSIS\core_cm4_simd.h)(0x560A64F2)
+I (.\CMSIS\system_S32K144.h)(0x5C7027C0)
+I (.\CMSIS\S32K144_features.h)(0x5E919942)
+I (.\CMSIS\devassert.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+I (.\S32Drivers\Inc\interrupt_manager.h)(0x5C7027FA)
+I (.\Drivers\Inc\clock.h)(0x5E919643)
+I (.\CMSIS\status.h)(0x5C7027FA)
+I (.\Drivers\Inc\clock_S32K1xx.h)(0x5C7027FA)
+I (.\Drivers\Inc\clockMan1.h)(0x5E8EFD5B)
+I (.\Drivers\Inc\pin_mux.h)(0x5E8EFD5B)
+I (.\S32Drivers\Inc\pins_driver.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5475F300)
+F (.\Drivers\Src\clockMan1.c)(0x5E8EFD5B)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\Application\Inc -I.\Drivers\Inc -I.\S32Drivers\Inc -I.\CMSIS -I.\S32Drivers-I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DCPU_S32K144HFT0VLLT -DCPU_S32K144HFT0VLLT -DCORE_M4-o .\objects\clockman1.o --omf_browse .\objects\clockman1.crf --depend .\objects\clockman1.d)
+I (.\Drivers\Inc\clockMan1.h)(0x5E8EFD5B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\Drivers\Inc\Cpu.h)(0x5E8EFD5B)
+I (.\CMSIS\device_registers.h)(0x5E919D29)
+I (.\CMSIS\s32_core_cm4.h)(0x5C7027FA)
+I (.\CMSIS\S32K144.h)(0x5A3BB655)
+I (.\CMSIS\core_cm4.h)(0x560A64F2)
+I (.\CMSIS\core_cmInstr.h)(0x560A64F2)
+I (.\CMSIS\core_cmFunc.h)(0x560A64F2)
+I (.\CMSIS\core_cm4_simd.h)(0x560A64F2)
+I (.\CMSIS\system_S32K144.h)(0x5C7027C0)
+I (.\CMSIS\S32K144_features.h)(0x5E919942)
+I (.\CMSIS\devassert.h)(0x5C7027FA)
+I (.\S32Drivers\Inc\interrupt_manager.h)(0x5C7027FA)
+I (.\Drivers\Inc\clock.h)(0x5E919643)
+I (.\CMSIS\status.h)(0x5C7027FA)
+I (.\Drivers\Inc\clock_S32K1xx.h)(0x5C7027FA)
+I (.\Drivers\Inc\pin_mux.h)(0x5E8EFD5B)
+I (.\S32Drivers\Inc\pins_driver.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5475F300)
+F (.\Drivers\Src\Cpu.c)(0x5E8EFD5B)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\Application\Inc -I.\Drivers\Inc -I.\S32Drivers\Inc -I.\CMSIS -I.\S32Drivers-I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DCPU_S32K144HFT0VLLT -DCPU_S32K144HFT0VLLT -DCORE_M4-o .\objects\cpu.o --omf_browse .\objects\cpu.crf --depend .\objects\cpu.d)
+I (.\Drivers\Inc\Cpu.h)(0x5E8EFD5B)
+I (.\CMSIS\device_registers.h)(0x5E919D29)
+I (.\CMSIS\s32_core_cm4.h)(0x5C7027FA)
+I (.\CMSIS\S32K144.h)(0x5A3BB655)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\CMSIS\core_cm4.h)(0x560A64F2)
+I (.\CMSIS\core_cmInstr.h)(0x560A64F2)
+I (.\CMSIS\core_cmFunc.h)(0x560A64F2)
+I (.\CMSIS\core_cm4_simd.h)(0x560A64F2)
+I (.\CMSIS\system_S32K144.h)(0x5C7027C0)
+I (.\CMSIS\S32K144_features.h)(0x5E919942)
+I (.\CMSIS\devassert.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+I (.\S32Drivers\Inc\interrupt_manager.h)(0x5C7027FA)
+I (.\Drivers\Inc\clock.h)(0x5E919643)
+I (.\CMSIS\status.h)(0x5C7027FA)
+I (.\Drivers\Inc\clock_S32K1xx.h)(0x5C7027FA)
+I (.\Drivers\Inc\clockMan1.h)(0x5E8EFD5B)
+I (.\Drivers\Inc\pin_mux.h)(0x5E8EFD5B)
+I (.\S32Drivers\Inc\pins_driver.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5475F300)
+F (.\Drivers\Src\pin_mux.c)(0x5E8EFD5B)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\Application\Inc -I.\Drivers\Inc -I.\S32Drivers\Inc -I.\CMSIS -I.\S32Drivers-I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DCPU_S32K144HFT0VLLT -DCPU_S32K144HFT0VLLT -DCORE_M4-o .\objects\pin_mux.o --omf_browse .\objects\pin_mux.crf --depend .\objects\pin_mux.d)
+I (.\CMSIS\device_registers.h)(0x5E919D29)
+I (.\CMSIS\s32_core_cm4.h)(0x5C7027FA)
+I (.\CMSIS\S32K144.h)(0x5A3BB655)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\CMSIS\core_cm4.h)(0x560A64F2)
+I (.\CMSIS\core_cmInstr.h)(0x560A64F2)
+I (.\CMSIS\core_cmFunc.h)(0x560A64F2)
+I (.\CMSIS\core_cm4_simd.h)(0x560A64F2)
+I (.\CMSIS\system_S32K144.h)(0x5C7027C0)
+I (.\CMSIS\S32K144_features.h)(0x5E919942)
+I (.\CMSIS\devassert.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+I (.\Drivers\Inc\pin_mux.h)(0x5E8EFD5B)
+I (.\S32Drivers\Inc\pins_driver.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5475F300)
+I (.\CMSIS\status.h)(0x5C7027FA)
+F (.\S32Drivers\Src\clock\S32K1xx\clock_S32K1xx.c)(0x5C7027FA)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\Application\Inc -I.\Drivers\Inc -I.\S32Drivers\Inc -I.\CMSIS -I.\S32Drivers-I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DCPU_S32K144HFT0VLLT -DCPU_S32K144HFT0VLLT -DCORE_M4-o .\objects\clock_s32k1xx.o --omf_browse .\objects\clock_s32k1xx.crf --depend .\objects\clock_s32k1xx.d)
+I (.\CMSIS\device_registers.h)(0x5E919D29)
+I (.\CMSIS\s32_core_cm4.h)(0x5C7027FA)
+I (.\CMSIS\S32K144.h)(0x5A3BB655)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\CMSIS\core_cm4.h)(0x560A64F2)
+I (.\CMSIS\core_cmInstr.h)(0x560A64F2)
+I (.\CMSIS\core_cmFunc.h)(0x560A64F2)
+I (.\CMSIS\core_cm4_simd.h)(0x560A64F2)
+I (.\CMSIS\system_S32K144.h)(0x5C7027C0)
+I (.\CMSIS\S32K144_features.h)(0x5E919942)
+I (.\CMSIS\devassert.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+I (S32Drivers\Src\clock\S32K1xx\sim_hw_access.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5475F300)
+I (S32Drivers\Src\clock\S32K1xx\scg_hw_access.h)(0x5C7027FA)
+I (S32Drivers\Src\clock\S32K1xx\pcc_hw_access.h)(0x5C7027FA)
+I (S32Drivers\Src\clock\S32K1xx\pmc_hw_access.h)(0x5C7027FA)
+I (S32Drivers\Src\clock\S32K1xx\smc_hw_access.h)(0x5C7027FA)
+I (.\Drivers\Inc\clock.h)(0x5E919643)
+I (.\CMSIS\status.h)(0x5C7027FA)
+I (.\Drivers\Inc\clock_S32K1xx.h)(0x5C7027FA)
+I (.\S32Drivers\Inc\interrupt_manager.h)(0x5C7027FA)
+F (.\S32Drivers\Src\interrupt\interrupt_manager.c)(0x5E919D8A)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\Application\Inc -I.\Drivers\Inc -I.\S32Drivers\Inc -I.\CMSIS -I.\S32Drivers-I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DCPU_S32K144HFT0VLLT -DCPU_S32K144HFT0VLLT -DCORE_M4-o .\objects\interrupt_manager.o --omf_browse .\objects\interrupt_manager.crf --depend .\objects\interrupt_manager.d)
+I (.\S32Drivers\Inc\interrupt_manager.h)(0x5C7027FA)
+I (.\CMSIS\device_registers.h)(0x5E919D29)
+I (.\CMSIS\s32_core_cm4.h)(0x5C7027FA)
+I (.\CMSIS\S32K144.h)(0x5A3BB655)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\CMSIS\core_cm4.h)(0x560A64F2)
+I (.\CMSIS\core_cmInstr.h)(0x560A64F2)
+I (.\CMSIS\core_cmFunc.h)(0x560A64F2)
+I (.\CMSIS\core_cm4_simd.h)(0x560A64F2)
+I (.\CMSIS\system_S32K144.h)(0x5C7027C0)
+I (.\CMSIS\S32K144_features.h)(0x5E919942)
+I (.\CMSIS\devassert.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+F (.\S32Drivers\Src\pins\pins_driver.c)(0x5C7027FA)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\Application\Inc -I.\Drivers\Inc -I.\S32Drivers\Inc -I.\CMSIS -I.\S32Drivers-I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DCPU_S32K144HFT0VLLT -DCPU_S32K144HFT0VLLT -DCORE_M4-o .\objects\pins_driver.o --omf_browse .\objects\pins_driver.crf --depend .\objects\pins_driver.d)
+I (.\CMSIS\device_registers.h)(0x5E919D29)
+I (.\CMSIS\s32_core_cm4.h)(0x5C7027FA)
+I (.\CMSIS\S32K144.h)(0x5A3BB655)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\CMSIS\core_cm4.h)(0x560A64F2)
+I (.\CMSIS\core_cmInstr.h)(0x560A64F2)
+I (.\CMSIS\core_cmFunc.h)(0x560A64F2)
+I (.\CMSIS\core_cm4_simd.h)(0x560A64F2)
+I (.\CMSIS\system_S32K144.h)(0x5C7027C0)
+I (.\CMSIS\S32K144_features.h)(0x5E919942)
+I (.\CMSIS\devassert.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+I (S32Drivers\Src\pins\pins_gpio_hw_access.h)(0x5C7027FA)
+I (.\S32Drivers\Inc\pins_driver.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5475F300)
+I (.\CMSIS\status.h)(0x5C7027FA)
+I (S32Drivers\Src\pins\pins_port_hw_access.h)(0x5C7027FA)
+F (.\S32Drivers\Src\pins\pins_port_hw_access.c)(0x5C7027FA)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\Application\Inc -I.\Drivers\Inc -I.\S32Drivers\Inc -I.\CMSIS -I.\S32Drivers-I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DCPU_S32K144HFT0VLLT -DCPU_S32K144HFT0VLLT -DCORE_M4-o .\objects\pins_port_hw_access.o --omf_browse .\objects\pins_port_hw_access.crf --depend .\objects\pins_port_hw_access.d)
+I (S32Drivers\Src\pins\pins_port_hw_access.h)(0x5C7027FA)
+I (.\S32Drivers\Inc\pins_driver.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x5475F300)
+I (.\CMSIS\device_registers.h)(0x5E919D29)
+I (.\CMSIS\s32_core_cm4.h)(0x5C7027FA)
+I (.\CMSIS\S32K144.h)(0x5A3BB655)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (.\CMSIS\core_cm4.h)(0x560A64F2)
+I (.\CMSIS\core_cmInstr.h)(0x560A64F2)
+I (.\CMSIS\core_cmFunc.h)(0x560A64F2)
+I (.\CMSIS\core_cm4_simd.h)(0x560A64F2)
+I (.\CMSIS\system_S32K144.h)(0x5C7027C0)
+I (.\CMSIS\S32K144_features.h)(0x5E919942)
+I (.\CMSIS\devassert.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+I (.\CMSIS\status.h)(0x5C7027FA)
+I (S32Drivers\Src\pins\pins_gpio_hw_access.h)(0x5C7027FA)
+F (.\CMSIS\startup_S32K144.s)(0x5C7027C0)(--cpu Cortex-M4.fp -g --apcs=interwork -I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 514" --pd "CPU_S32K144HFT0VLLT SETA 1"--list .\listings\startup_s32k144.lst --xref -o .\objects\startup_s32k144.o --depend .\objects\startup_s32k144.d)
+F (.\CMSIS\system_S32K144.c)(0x5C7027C0)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\Application\Inc -I.\Drivers\Inc -I.\S32Drivers\Inc -I.\CMSIS -I.\S32Drivers-I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DCPU_S32K144HFT0VLLT -DCPU_S32K144HFT0VLLT -DCORE_M4-o .\objects\system_s32k144.o --omf_browse .\objects\system_s32k144.crf --depend .\objects\system_s32k144.d)
+I (CMSIS\device_registers.h)(0x5E919D29)
+I (CMSIS\s32_core_cm4.h)(0x5C7027FA)
+I (CMSIS\S32K144.h)(0x5A3BB655)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (CMSIS\core_cm4.h)(0x560A64F2)
+I (.\CMSIS\core_cmInstr.h)(0x560A64F2)
+I (.\CMSIS\core_cmFunc.h)(0x560A64F2)
+I (.\CMSIS\core_cm4_simd.h)(0x560A64F2)
+I (CMSIS\system_S32K144.h)(0x5C7027C0)
+I (CMSIS\S32K144_features.h)(0x5E919942)
+I (CMSIS\devassert.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
+F (.\CMSIS\startup.c)(0x5E919D73)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I.\Application\Inc -I.\Drivers\Inc -I.\S32Drivers\Inc -I.\CMSIS -I.\S32Drivers-I D:\nxp-nxps32-demo\RTE-I C:\Keil_v5\ARM\PACK\Keil\S32_SDK_DFP\1.2.0-I C:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="514" -DCPU_S32K144HFT0VLLT -DCPU_S32K144HFT0VLLT -DCORE_M4-o .\objects\startup.o --omf_browse .\objects\startup.crf --depend .\objects\startup.d)
+I (CMSIS\startup.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5475F300)
+I (CMSIS\device_registers.h)(0x5E919D29)
+I (CMSIS\s32_core_cm4.h)(0x5C7027FA)
+I (CMSIS\S32K144.h)(0x5A3BB655)
+I (CMSIS\core_cm4.h)(0x560A64F2)
+I (.\CMSIS\core_cmInstr.h)(0x560A64F2)
+I (.\CMSIS\core_cmFunc.h)(0x560A64F2)
+I (.\CMSIS\core_cm4_simd.h)(0x560A64F2)
+I (CMSIS\system_S32K144.h)(0x5C7027C0)
+I (CMSIS\S32K144_features.h)(0x5E919942)
+I (CMSIS\devassert.h)(0x5C7027FA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5475F300)
